@@ -93,25 +93,3 @@ Pull requests are welcome! Feel free to fork and build upon this.
 
 ---
 
-## 🔗 Block Explorer
-
-[View on BaseScan](https://sepolia.basescan.org/address/0x3c21847235A3658830b855a07972b03e111Cdbd0)
-
-````
-
----
-
-## 🧑‍💻 Step 3: GitHub Commands to Push
-
-```bash
-# Initialize repo if not already
-git init
-git remote add origin https://github.com/YOUR_USERNAME/tipjar-contract.git
-git add .
-git commit -m "Initial commit: TipJar contract and README"
-git push -u origin master
-````
-
----
-
-Let me know if you'd like help deploying with Hardhat or Foundry, or need visuals like a contributor leaderboard UI.
